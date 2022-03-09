@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I am **Dante**, a **Software Developer** and **Graphic Designer** ...
+I am <a href="">Dante</a>, a **Software Developer** and **Graphic Designer** ...
 
 <a href="https://clinton-otse.netlify.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a>
 <a href="http://linkedin.com/in/clinton-otse" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>

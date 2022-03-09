@@ -2,7 +2,8 @@
 
 I am Dante, a software developer and graphic designer ...
 
-![softDev](https://user-images.githubusercontent.com/85023604/157430740-52ea2b15-6331-4c2b-8b78-585da7575e83.gif)
+![dev](https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif)
+
 
 <!-- 
 - 🔭 I’m currently working on Decagon projects ...

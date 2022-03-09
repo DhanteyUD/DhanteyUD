@@ -2,7 +2,7 @@
 
 I am Dante, a software developer and graphic designer ...
 
-<a href="https://clinton-otse.netlify.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" /></a>
+<a href="https://clinton-otse.netlify.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="100%" /></a>
 
 <!-- 
 - 🔭 I’m currently working on Decagon projects ...

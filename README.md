@@ -18,7 +18,7 @@ I am also an open-source enthusiast. I learned a lot from open-source community 
 
 
 <!-- ![DhanteyUD's GitHub stats]() -->
-<img src="https://github-readme-stats.vercel.app/api?username=DhanteyUD&show_icons=true&theme=nord" width="421"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanteyUD&theme=nord&layout=compact" width="351">
+<img src="https://github-readme-stats.vercel.app/api?username=DhanteyUD&show_icons=true&theme=nord" width="422"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanteyUD&theme=nord&layout=compact" width="352">
 
 - 🔭 I’m currently working on some amazing projects ...
 - 🌱 Skilled in HTML, CSS, Front-end Libraries (SASS, Bootstrap, jQuery, React),

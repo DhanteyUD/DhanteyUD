@@ -2,14 +2,15 @@
 
 
 
-I am **<a href="https://clinton-otse.netlify.app" target="_blank">Clinton Otse (Dante)</a>**, a **Software Developer** and **Graphic Designer** ...
+I am **<a href="https://clinton-otse.netlify.app" target="blank">Clinton Otse (Dante)</a>**, a **Software Developer** and **Graphic Designer** ...
 
-I'm a passionate full stack web developer, a freelance software engineer and graphic designer from Nigeria. My passion for software lies with brainstorming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am a passionate full stack web developer, a freelance software engineer and graphic designer from Nigeria. My passion for software lies with brainstorming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast. I learned a lot from open-source community and i love how collaboration and knowledge sharing happens through open-source.
+I am also an open-source enthusiast. I learned a lot from open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
-<a href="https://codepen.io/Clinton_Otse" ><img align="center" src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a>
-<a href="http://linkedin.com/in/clinton-otse" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>
+<a href="https://codepen.io/Clinton_Otse" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a>
+
+<a href="http://linkedin.com/in/clinton-otse" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>
 
 
 - 🔭 I’m currently working on some amazing projects ...

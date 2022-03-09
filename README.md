@@ -3,9 +3,7 @@
 I am Dante, a software developer and graphic designer ...
 
 <a href="https://clinton-otse.netlify.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a>
-<a href="https://clinton-otse.netlify.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157437114-26e196dd-8ce4-4f7d-a4f1-3c112c38ad91.png" height="300" /></a>
-
-
+<a href="https://clinton-otse.netlify.app" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>
 
 <!-- 
 - 🔭 I’m currently working on Decagon projects ...

@@ -2,7 +2,7 @@
 
 
 
-I am **<a href="https://clinton-otse.netlify.app" target="_blank">Dante</a>**, a **Software Developer** and **Graphic Designer** ...
+I am **<a href="https://clinton-otse.netlify.app" target="_blank">Clinton Otse (Dante)</a>**, a **Software Developer** and **Graphic Designer** ...
 
 I'm a passionate full stack web developer and a freelance software engineer from Nigeria. My passion for software lies with brainstorming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 

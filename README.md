@@ -17,19 +17,19 @@ I am also an open-source enthusiast. I learned a lot from open-source community 
 <a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>
 
 ## Languages and Tools ...
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157501509-d3049689-3641-4b76-acb9-784835c55347.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157501677-417262ab-41a7-4ee1-8e62-5b9ed4c92507.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157501861-bf7de013-76fb-476c-aecf-0092d309c1bd.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157502200-f960d658-d6d4-4326-87dc-b14113ef9949.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157502117-f093c52d-ffb1-4ed3-a8af-70018907396f.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157502146-8e6280cf-a076-40e2-b02c-9cf5d95cb762.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503378-2741d497-b8cc-4973-8233-9f822f548a01.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503402-ad714a94-3934-4e76-8c49-e5ba50f341f8.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503938-7741176c-690d-46e2-8388-64d055a2f13b.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503957-77cf882c-62a1-4004-bafe-bd0070fc0b45.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157506774-3d9beeac-9b9a-4721-89a6-9e13f7695d07.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157506787-6411d8b7-83c1-4bf6-ae67-6e94bca47d1e.png" height="50" /></a>
-<a href="https://github.com/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157507345-75fae6fe-b285-4080-b3f5-ec6f2a5da599.png" height="43" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157501509-d3049689-3641-4b76-acb9-784835c55347.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157501677-417262ab-41a7-4ee1-8e62-5b9ed4c92507.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157501861-bf7de013-76fb-476c-aecf-0092d309c1bd.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157502200-f960d658-d6d4-4326-87dc-b14113ef9949.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157502117-f093c52d-ffb1-4ed3-a8af-70018907396f.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157502146-8e6280cf-a076-40e2-b02c-9cf5d95cb762.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503378-2741d497-b8cc-4973-8233-9f822f548a01.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503402-ad714a94-3934-4e76-8c49-e5ba50f341f8.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503938-7741176c-690d-46e2-8388-64d055a2f13b.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503957-77cf882c-62a1-4004-bafe-bd0070fc0b45.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157506774-3d9beeac-9b9a-4721-89a6-9e13f7695d07.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157506787-6411d8b7-83c1-4bf6-ae67-6e94bca47d1e.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157507345-75fae6fe-b285-4080-b3f5-ec6f2a5da599.png" height="43" /></a>
 
 ## GitHub Stats ...
 <img src="https://github-readme-stats.vercel.app/api?username=DhanteyUD&show_icons=true&theme=nord" width="423"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanteyUD&theme=nord&layout=compact" width="353">

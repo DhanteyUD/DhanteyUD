@@ -42,5 +42,5 @@ I am also an open-source enthusiast. I learned a lot from open-source community 
 <a href="https://codepen.io/Clinton_Otse" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157511464-5c238237-5d0a-4716-9540-dba6285598bf.png" height="50" /></a>
 <a href="https://www.codewars.com/users/DhanteyUD" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157512436-e3645ec4-ca59-494b-99aa-98d417a129b0.svg" height="40" /></a>
 
-## CodeWars Rank ...
+## Codewars Rank ...
 [![Profile badge](https://www.codewars.com/users/DhanteyUD/badges/large)](https://www.codewars.com/users/DhanteyUD)

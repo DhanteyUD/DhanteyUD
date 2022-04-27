@@ -26,7 +26,7 @@ I am also an open-source enthusiast. I learned a lot from open-source community 
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/165631645-5f7f4140-4111-4feb-b6f4-616b19ff48c7.png" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/165631662-99e01c89-9bd8-4521-a475-ab71d27e1c3c.png" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/160307063-32712317-c632-44e9-bb64-7a9c57a17feb.png" height="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/165635460-fd4bb766-dcca-40b0-a53f-afd7dc3202e8.png" height="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/165635460-fd4bb766-dcca-40b0-a53f-afd7dc3202e8.png" height="45" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/165633903-aa0e9bbe-4648-4964-bbe5-27f90ce0ca9e.png" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/165633941-7d863a91-271e-4f4f-9573-504fbcfdc021.png" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503378-2741d497-b8cc-4973-8233-9f822f548a01.png" height="50" /></a>

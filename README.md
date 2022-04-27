@@ -33,8 +33,6 @@ I am also an open-source enthusiast. I learned a lot from open-source community 
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/165634328-ce93b75a-458f-4891-9fbd-128623e702aa.png" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503938-7741176c-690d-46e2-8388-64d055a2f13b.png" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157503957-77cf882c-62a1-4004-bafe-bd0070fc0b45.png" height="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157506774-3d9beeac-9b9a-4721-89a6-9e13f7695d07.png" height="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157506787-6411d8b7-83c1-4bf6-ae67-6e94bca47d1e.png" height="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85023604/157507345-75fae6fe-b285-4080-b3f5-ec6f2a5da599.png" height="43" /></a>
 
 ## GitHub Stats

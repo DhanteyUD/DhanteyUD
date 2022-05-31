@@ -4,6 +4,8 @@
 
 I am **<a href="https://clinton-otse.netlify.app" target="blank">Clinton Otse (Dante)</a>**, a **Full-Stack Developer (MERN Stack)**, a **Product Designer**, and a **Blockchain Enthusiast**...
 
+---
+
 I am a passionate full stack web developer, a freelance software engineer and product designer from Nigeria. My passion for software lies in brainstorming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from open-source community and I love how collaboration and knowledge sharing happens through open-source.

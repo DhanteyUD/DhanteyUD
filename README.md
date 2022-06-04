@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=edf5d4&size=30&lines=I+am+Clinton+Otse!+-+Dante;I+am+a+FullStack+Developer,;+a+Product+Designer,;+and+a+Blockchain+Enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=edf5d4&size=30&lines=I+am+Clinton+Otse!+-+Dante;I+am+a+FullStack+Developer,;+a+Product+Designer,+Web3.js;+and+a+Blockchain+Enthusiast.)](https://git.io/typing-svg)
   
 </div>
 

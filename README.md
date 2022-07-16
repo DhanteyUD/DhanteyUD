@@ -18,9 +18,9 @@
 
 ---
 
-I am a passionate software engineer, a freelance product designer and a blockchain enthusiast. My passion for software lies in brainstorming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am a passionate `software engineer`, a freelance `product designer` and a `blockchain enthusiast`. My passion for software lies in brainstorming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast. I learned a lot from open-source community and I love how collaboration and knowledge sharing happens through open-source.
+I am also an `open-source enthusiast`. I learned a lot from open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 <a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a><a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>
 

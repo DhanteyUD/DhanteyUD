@@ -18,9 +18,11 @@
 
 ---
 
-I am a passionate `software developer`, a freelance `product designer` and a `blockchain enthusiast`. My passion for software lies in brainstorming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am `Clinton Otse`, a passionate and results-driven software developer with over 4 years of experience building and maintaining scalable web applications.
 
-I am also an `open-source enthusiast`. I learned a lot from open-source community and I love how collaboration and knowledge sharing happens through open-source.
+My expertise spans across full-stack development, software architecture, and agile methodologies. I am dedicated to continuous learning and keeping up with the latest industry trends to ensure the best possible outcomes for my projects. 
+
+Let's connect and explore how I can contribute to your team's success!
 
 <a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a><a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>
 

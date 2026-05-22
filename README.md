@@ -18,7 +18,7 @@
 
 ---
 
-I am `Clinton Otse`, a passionate and results-driven software engineer with 4+ years of experience building and maintaining scalable web applications.
+I am `Clinton Otse`, a passionate and results-driven software engineer with 5+ years of experience building and maintaining scalable web applications.
 
 My expertise spans full-stack development, software architecture, and agile methodologies. I am dedicated to continuous learning and keeping up with the latest industry trends to ensure the best possible outcomes for my projects. 
 

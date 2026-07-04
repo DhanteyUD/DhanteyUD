@@ -24,6 +24,14 @@ My expertise spans full-stack development, software architecture, and agile meth
 
 Let's connect and explore how I can contribute to your team's success!
 
+---
+Currently building **[Mainstay](https://mainstay.pro)** — an MEV-protected trading terminal on Solana that stops bots from stealing your trades. *Stay Clean.*
+
+🏆 Hackathon wins:
+- **Civic Auth Hackathon** — GratiFi (Solana creator tipping platform)
+- **Colosseum Cypherpunk Hackathon** — DeFiGuard (multi-chain DeFi risk monitoring)
+
+
 <a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157433094-eb0799cc-41dd-4cfe-bb9a-49335956e5c7.gif" height="300" /></a><a href="#" target="blank"><img src="https://user-images.githubusercontent.com/85023604/157438650-91c731f4-68c0-4338-a8f7-4854562d77a9.JPEG" height="300" /></a>
 
 ## Languages and Tools
